@@ -1,6 +1,9 @@
 ﻿  gamee.c
   main.c
+  physics.c
+  ui.c
   Generating Code...
+  LINK : C:\Users\Kayahan\Desktop\BubbleShoot\BubbleShoot\x64\Debug\BubbleShoot.exe not found or not built by the last incremental link; performing full link
   BubbleShoot.vcxproj -> C:\Users\Kayahan\Desktop\BubbleShoot\BubbleShoot\x64\Debug\BubbleShoot.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
