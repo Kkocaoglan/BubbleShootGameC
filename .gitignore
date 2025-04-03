@@ -1,0 +1,15 @@
+# VS proje dosyaları
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+*.VC.db*
+
+# Build (derleme) dosyaları
+x64/
+Debug/
+Release/
+*.ilk
+*.obj
+*.pdb
+*.tlog
